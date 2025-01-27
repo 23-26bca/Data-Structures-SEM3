@@ -1,3 +1,5 @@
+//Program to implement sparse matrix using an array.
+
 #include<iostream.h>
 #include<conio.h>
 void main()
