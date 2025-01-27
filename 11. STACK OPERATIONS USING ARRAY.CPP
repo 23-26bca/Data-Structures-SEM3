@@ -1,3 +1,5 @@
+//Program to perform stack operations using an array
+
 #include<iostream.h>
 #include<conio.h>
 #include<process.h>
