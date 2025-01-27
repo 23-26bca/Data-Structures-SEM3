@@ -1,3 +1,5 @@
+//Program to implement addition of two sparse matrix.
+
 #include<iostream.h>
 #include<conio.h>
 void main()
