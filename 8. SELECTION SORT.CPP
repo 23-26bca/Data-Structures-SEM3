@@ -1,3 +1,5 @@
+//Program to implement selection sort.
+
 #include <iostream.h >
 #include <conio.h>
 void selection_sort(int[],int);
