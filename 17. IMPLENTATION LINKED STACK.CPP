@@ -1,3 +1,5 @@
+//Program to implement linked stack
+
 #include<iostream.h>
 #include<conio.h>
 #include<process.h>
