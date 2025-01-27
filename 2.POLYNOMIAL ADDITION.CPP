@@ -1,3 +1,5 @@
+//Program to perform polynomial addition
+
 #include<iostream.h>
 #include<conio.h>
 struct poly
