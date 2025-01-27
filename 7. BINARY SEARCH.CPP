@@ -1,3 +1,5 @@
+//Program to implement binary search.
+
 #include <iostream.h>
 #include <conio.h>
 void main()
