@@ -1,3 +1,5 @@
+//Program to find transpose of a sparse matrix.
+
 #include <iostream.h>
 #include<conio.h>
 void main()
